@@ -1,0 +1,124 @@
+{
+	"errno": 0,
+	"data": [
+		{
+			"site": "http://www.iqiyi.com/?vfm=f_328_hao1",
+			"name": "爱奇艺高清",
+			"company": "爱奇艺",
+			"type": "movie",
+			"description": "看电影网站"
+		},
+		{
+			"site": "https://www.hao123.com/link/https/?key=http%3A%2F%2Fwww.le.com%3Fch%3Dhao123_dh&&c=013119A370CD622D6653783BEDE72209",
+			"name": "乐视视频",
+			"company": "乐视",
+			"type": "movie",
+			"description": "看电影网站"
+		},
+		{
+			"site": "http://www.youku.com/",
+			"name": "优酷网",
+			"company": "优酷",
+			"type": "movie",
+			"description": "看电影网站"
+		},
+		{
+			"site": "http://www.4399.com/",
+			"name": "4399游戏",
+			"company": "4399",
+			"type": "games",
+			"description": "玩游戏网站"
+		},
+		{
+			"site": "https://www.hao123.com/link/https/?key=http%3A%2F%2Fxyx.hao123.com%2F&&c=013119A370CD622D6653783BEDE72209",
+			"name": "hao123小游戏",
+			"company": "hao123",
+			"type": "games",
+			"description": "玩游戏网站"
+		},
+		{
+			"site": "http://www.hao123.com/video/lol",
+			"name": "LOL直播",
+			"company": "LOL",
+			"type": "games",
+			"description": "玩游戏网站"
+		},
+		{
+			"site": "https://www.hao123.com/link/https/?key=http%3A%2F%2Fnews.sina.com.cn%2F&&c=013119A370CD622D6653783BEDE72209",
+			"name": "新浪新闻",
+			"company": "新浪",
+			"type": "news",
+			"description": "看新闻网站"
+		},
+		{
+			"site": "http://mini.qq.com/",
+			"name": "腾讯新闻",
+			"company": "腾讯",
+			"type": "news",
+			"description": "看新闻网站"
+		},
+		{
+			"site": "http://news.baidu.com/",
+			"name": "百度新闻",
+			"company": "百度",
+			"type": "news",
+			"description": "看新闻网站"
+		},
+		{
+			"site": "http://news.sohu.com/",
+			"name": "搜狐新闻",
+			"company": "搜狐",
+			"type": "news",
+			"description": "看新闻网站"
+		},
+		{
+			"site": "http://news.163.com/",
+			"name": "网易新闻",
+			"company": "网易",
+			"type": "news",
+			"description": "看新闻网站"
+		},
+		{
+			"site": "http://sports.sina.com.cn/",
+			"name": "新浪体育",
+			"company": "新浪",
+			"type": "sports",
+			"description": "体育新闻网站"
+		},
+		{
+			"site": "http://sports.sohu.com/",
+			"name": "搜狐体育",
+			"company": "搜狐",
+			"type": "sports",
+			"description": "体育新闻网站"
+		},
+		{
+			"site": "http://www.taobao.com/",
+			"name": "淘宝网",
+			"company": "淘宝",
+			"type": "buy",
+			"description": "购物网站"
+		},
+		{
+			"site": "http://union.click.jd.com/jdc?d=63u2Ij",
+			"name": "京东商城",
+			"company": "京东",
+			"type": "buy",
+			"description": "购物网站"
+		},
+		{
+			"site": "http://tieba.baidu.com/",
+			"name": "百度贴吧",
+			"company": "百度",
+			"type": "friends",
+			"description": "社交网站"
+		},
+		{
+			"site": "http://www.baihe.com/",
+			"name": "百合网",
+			"company": "百合",
+			"type": "friends",
+			"description": "社交网站"
+		}
+	]
+}
